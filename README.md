@@ -26,5 +26,5 @@ Things you may want to cover:
 * Review MVC diagram for information flow
 * Structure of a rails application
 * Version control with Git
-Ruby and Rails
-My first test repo
+* Ruby and Rails
+* My first test repo
