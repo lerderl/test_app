@@ -27,3 +27,4 @@ Things you may want to cover:
 * Structure of a rails application
 * Version control with Git
 Ruby and Rails
+My first test repo
